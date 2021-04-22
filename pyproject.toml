@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pypesa"
-version = "0.0.2"
+version = "0.0.3"
 description = "Python Implementation for Mobile payments integrations."
 authors = ["Innocent Zenda <zendainnocent@gmail.com>"]
 readme = 'README.md'
